@@ -75,7 +75,7 @@ class LoginActivity : AppCompatActivity() {
             }
     }
     //Signup
-    //addOnCompleteLister 결과값 받아오고 task가 parameter
+    //addOnCompleteLister 결과값 받아오고 task는 parameter
     fun signinAndSignup() {
         auth?.createUserWithEmailAndPassword(email_edittext.text.toString(), password_edittext.text.toString())
             ?.addOnCompleteListener { task ->
