@@ -36,6 +36,7 @@ class LoginActivity : AppCompatActivity() {
             googleLogin()
         }
         var gso = GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
+            //.requestIdToken(getString(R.string.default_web_client_id)) //google api key
             .requestIdToken(getString(R.string.default_web_client_id)) //google api key
             .requestEmail()
             .build()
