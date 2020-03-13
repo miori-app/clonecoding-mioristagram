@@ -9,7 +9,7 @@ import com.example.mioristargram.navigation.GridFragment
 import com.example.mioristargram.navigation.UserFragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import kotlinx.android.synthetic.main.activity_main.*
-// fragment connect
+// Connect each Fragment
 class MainActivity : AppCompatActivity(), BottomNavigationView.OnNavigationItemSelectedListener {
     override fun onNavigationItemSelected(p0: MenuItem): Boolean {
         when(p0.itemId){
