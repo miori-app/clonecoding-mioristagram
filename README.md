@@ -6,9 +6,9 @@ clone coading first ; instagram
 
 ## run
 - Download "google-services.json" from firebase
-- Then, Locate "app\"
+- Then, Locate "app\\"
 
 <br>
 1. Login View
 
-![image](https://user-images.githubusercontent.com/46439995/76343534-96ab7880-6343-11ea-9816-d362ccb716e1.png)
+![KakaoTalk_20200313_165220733](https://user-images.githubusercontent.com/46439995/76600892-2d965180-654b-11ea-9c13-4156ce237a3b.jpg)
