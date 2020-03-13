@@ -2,6 +2,7 @@
 clone coading first ; instagram
 
 - using Kotlin
+- version : androidX
 - reference : [howlstagram](https://github.com/you6878/howlstagram)
 
 ## run
