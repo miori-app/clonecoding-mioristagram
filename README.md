@@ -5,15 +5,11 @@ clone coading first ; instagram
 - version : androidX
 - reference : [howlstagram](https://github.com/you6878/howlstagram)
 
-<<<<<<< HEAD
+
 ## How to run
 - Download "google-services.json" from firebase
 - Then, Locate google-services.josn in "app/"
-=======
-## run
-- Download "google-services.json" from firebase
-- Then, Locate "app\\"
->>>>>>> 63338ee743fbe98cdaafe35832ee9d1596004031
+
 
 <br>
 1. Login View
